@@ -1,11 +1,19 @@
 /*
-Theme Name: Minimalio Child
-Theme URI:    https://minimalio.org
-Description: Minimalio Child Theme
-Version: 1.0.0
-Author: Minimalio
-Author URI: https://minimalio.org
-Template:     minimalio
-License:      EULA
-License URI:  https://en.wikipedia.org/wiki/End-user_license_agreement
+Theme Name:        Minimalio Child
+Theme URI:         https://minimalio.org
+Description:       Child theme for Minimalio. Put your own CSS in assets/child-styles.css, JavaScript in assets/child-script.js and PHP in functions.php, so Minimalio updates never overwrite your changes.
+Version:           1.1.0
+Author:            mikulas-k
+Author URI:        https://minimalio.org
+Template:          minimalio
+Requires at least: 5.8
+Requires PHP:      7.4
+License:           GPL-2.0-or-later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:       minimalio-child
 */
+
+/*
+ * This file only describes the theme. Add custom CSS to assets/child-styles.css.
+ * (CSS written below this comment still works: it's loaded if there is any.)
+ */
